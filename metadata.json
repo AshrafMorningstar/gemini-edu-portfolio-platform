@@ -1,0 +1,7 @@
+{
+  "name": "Teacher Portfolio System",
+  "description": "A comprehensive monochrome 3D-styled professional portfolio system for teachers and admins with PDF extraction capabilities.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
